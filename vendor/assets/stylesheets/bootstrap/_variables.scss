@@ -70,10 +70,6 @@ $paddingLarge:          11px 19px !default; // 44px
 $paddingSmall:          2px 10px !default;  // 26px
 $paddingMini:           0px 6px !default;   // 22px
 
-$baseBorderRadius:      4px !default;
-$borderRadiusLarge:     6px !default;
-$borderRadiusSmall:     3px !default;
-
 
 // Tables
 // -------------------------
@@ -111,7 +107,6 @@ $btnInverseBackgroundHighlight:     $grayDarker !default;
 // -------------------------
 $inputBackground:               $white !default;
 $inputBorder:                   #ccc !default;
-$inputBorderRadius:             $baseBorderRadius !default;
 $inputDisabledBackground:       $grayLighter !default;
 $formActionsBackground:         #f5f5f5 !default;
 $inputHeight:                   $baseLineHeight + 10px; // base line-height + 8px vertical padding + 2px top/bottom border
@@ -151,8 +146,8 @@ $zindexModal:             1050 !default;
 
 // Sprite icons path
 // -------------------------
-$iconSpritePath:          image-path("glyphicons-halflings.png") !default;
-$iconWhiteSpritePath:     image-path("glyphicons-halflings-white.png") !default;
+$iconSpritePath:          image-path("../../img/glyphicons-halflings.png") !default;
+$iconWhiteSpritePath:     image-path("../../img/glyphicons-halflings-white.png") !default;
 
 
 // Input placeholder text color
