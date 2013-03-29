@@ -12,3 +12,4 @@
 //= require bootstrap-popover
 //= require bootstrap-typeahead
 //= require bootstrap-select
+//= require bootstrap-icheck
